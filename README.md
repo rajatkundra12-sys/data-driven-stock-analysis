@@ -2,7 +2,6 @@
 
 This project focuses on analyzing stock market data using a data-driven approach. The main objective is to extract meaningful insights from historical stock price data using data analysis and visualization techniques.
 
----
 
 ##  Project Objective
 
@@ -13,7 +12,6 @@ The goal of this project is to:
 * Perform data cleaning and preprocessing
 * Visualize stock performance for better decision-making
 
----
 
 ##  Key Features
 
@@ -23,7 +21,6 @@ The goal of this project is to:
 * Performance comparison of stocks
 * Insight generation using visualizations
 
----
 
 ##  Project Structure
 
@@ -32,7 +29,6 @@ The goal of this project is to:
 * Visual output and graphs
 * Final conclusions and insights
 
----
 
 ##  Tools & Technologies Used
 
@@ -42,7 +38,6 @@ The goal of this project is to:
 * Matplotlib
 * Jupyter Notebook
 
----
 
 ##  Workflow
 
@@ -53,7 +48,6 @@ The goal of this project is to:
 5. Visualization
 6. Insights & conclusion
 
----
 
 ##  Results & Insights
 
@@ -61,7 +55,6 @@ The goal of this project is to:
 * Volatility and movement patterns were analyzed
 * Data visualization helped in understanding performance clearly
 
----
 
 ##  How to Run the Project
 
@@ -69,7 +62,6 @@ The goal of this project is to:
 * Make sure all required Python libraries are installed
 * Run all cells step by step to see full analysis
 
----
 
 ##  Future Scope
 
@@ -77,9 +69,7 @@ The goal of this project is to:
 * Implement machine learning for prediction
 * Create a dashboard using Power BI or Streamlit
 
----
 
 ## 👤 Author
 
 **Rajat Kundra**
----
